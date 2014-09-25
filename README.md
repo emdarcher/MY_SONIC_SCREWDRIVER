@@ -21,7 +21,7 @@ More Abitious features that will hopefully be implemented in "final" design:
   * Radio communication over 2.4GHz via nRF24L01+ modules
   * Accelerometer for gesture control and other uses.
   * ARM Cortex-M0/0+/3 MCU (probably STM32 because I've used that before)
-    - probably using and RTOS ( most likely ChibiOS/RT )
+    - probably using an RTOS ( most likely ChibiOS/RT )
   * (optional) a more advanced readout (OLED, LCD, projection! (jk) )
   * USB communication for cool things ( maybe uploading new sounds, setting changes, USB CDC serial, etc.)
   * rechargeable battery system (maybe charge over the USB port, or a DC jack)
